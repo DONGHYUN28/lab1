@@ -1,0 +1,7 @@
+# Add to ~/.bashrc after backing up the original file.
+alias ll='ls -alF'
+alias cls='clear'
+export HISTSIZE=2000
+export HISTFILESIZE=4000
+export HISTCONTROL=ignoredups
+PS1='[\u@\h \W]\$ '

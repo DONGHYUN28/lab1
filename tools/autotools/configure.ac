@@ -1,0 +1,8 @@
+AC_INIT([lab-demo], [1.0])
+AM_INIT_AUTOMAKE([foreign])
+AC_CONFIG_SRCDIR([hello.c])
+AC_PROG_CC
+AM_PROG_AR
+LT_INIT
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT

@@ -1,0 +1,11 @@
+Alpha
+hello world
+
+12345
+alpha
+abc123
+color
+colour
+file.c
+2026-10-07
+010-1234-5678
